@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Aditya Yadav 👋</h1>
-<p align="center">Learning cool stuff & building awesome projects</p>
+<h1 align="center">Hi, I'm Aditya Yadav </h1>
+<p align="center">17 - Building cool stuffs</p>
 
 ---
 
 ### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_ID/)
+[![X](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://x.com/adityadotdev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityaydvdev/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityadotdev@gmail.com)
 
 

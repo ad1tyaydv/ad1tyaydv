@@ -4,7 +4,7 @@
 ---
 
 ### 🌐 Socials:
-[![X](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://x.com/adityadotdev)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/adityadotdev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityaydvdev/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityadotdev@gmail.com)
 
@@ -24,14 +24,3 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### 📊 GitHub Stats:
-<div align="center">
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ad1tyaydv&theme=radical" height="180px"/>
-<img src="https://github-readme-stats.vercel.app/api?username=ad1tyaydv&show_icons=true&theme=radical" height="180px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ad1tyaydv&layout=compact&theme=radical"/>
-
-</div>
